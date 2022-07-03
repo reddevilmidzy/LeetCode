@@ -6,9 +6,7 @@ class Solution:
                 num_dict[i] = 1
             else:
                 num_dict[i] = 0
-        ans = 0
         for i in nums:
             if num_dict[i] == 1:
-                ans = i
-        return ans
+                return i
         
