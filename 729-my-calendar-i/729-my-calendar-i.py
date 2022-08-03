@@ -12,11 +12,8 @@ class MyCalendar:
             calendar.append(end)
             return True
         
-#         if end <= start:
-#             return False
-        
         i = bisect.bisect_right(self.calendar, start)
-        if i%2:
+        if i%2: # i가 홀수라면 중간에 끼여있는 스케줄
             return False
         
         j = bisect.bisect_left(self.calendar, end)
