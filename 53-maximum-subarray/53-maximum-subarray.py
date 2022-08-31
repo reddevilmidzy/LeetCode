@@ -1,7 +1,7 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         n = len(nums)
-        dp = [0]*n # dp table
+        # dp = [0]*n # dp table
         now = nums[0] # now nums
         ans = nums[0] # for ans nums
         
