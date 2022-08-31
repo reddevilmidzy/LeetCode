@@ -8,7 +8,7 @@ class Solution:
             max_cur = max(max_cur+i, i)
             max_sum = max(max_sum, max_cur)
         
-            
+        # 원소중에 음수도 있기에 한번 체크해줌    
         return max(max_sum, tot-min_sum) if max_sum > 0 else max_sum
             
         
