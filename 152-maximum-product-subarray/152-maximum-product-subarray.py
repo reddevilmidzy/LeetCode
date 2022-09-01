@@ -5,8 +5,8 @@ class Solution:
         min_cur = 1
         min_ans = nums[0]
         
-        dp = [0,0]*(len(nums))
-        dp[0] = [nums[0], nums[0]]
+        # dp = [0,0]*(len(nums))
+        # dp[0] = [nums[0], nums[0]]
         
         for i in range(len(nums)):
             tmp = max_cur
