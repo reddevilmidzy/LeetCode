@@ -4,7 +4,8 @@ class Solution:
         dp = [0]*(n+1)
         dp[0] = 1
         dp[1] = 0 if s[0]=='0' else 1
-        
+        if n == 1:
+            return dp[1]
         for i in range(2, n+1):
             if 0 < int(s[i-1:i]) <= 9:
                 dp[i] += dp[i-1]
