@@ -1,10 +1,9 @@
 class Solution:
     def nthUglyNumber(self, n: int) -> int:
-        dp = [1]
-        idx_2, idx_3, idx_5 = 0,0,0
         if n <= 6:
             return n
-        
+        dp = [1]
+        idx_2, idx_3, idx_5 = 0,0,0
         while n>1:
             time_2, time_3, time_5 = 2*dp[idx_2], 3*dp[idx_3], 5*dp[idx_5]
             minmum = min(time_2, time_3, time_5)
