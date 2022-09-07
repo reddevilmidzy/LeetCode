@@ -11,12 +11,12 @@ class Solution:
             
         ans = str(root.val) 
         if root.left:
-            ans+="(" + self.tree2str(root.left) + ")"
+            ans+=f"({self.tree2str(root.left)})"
 
         if not root.left and root.right:
             ans+="()"
 
         if root.right:
-            ans+="(" + self.tree2str(root.right) + ")"
-
+            ans+=f"({self.tree2str(root.right)})"
+            
         return ans
