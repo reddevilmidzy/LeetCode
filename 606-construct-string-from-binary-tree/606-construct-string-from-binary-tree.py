@@ -7,7 +7,7 @@
 class Solution:
     def tree2str(self, root: Optional[TreeNode]) -> str:
         if root is None:
-            return ""
+            return 
             
         ans = str(root.val) 
         if root.left:
