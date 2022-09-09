@@ -3,8 +3,8 @@ class Solution:
         properties = sorted(properties, key=lambda x: (-x[0],x[1]))
         
         weak = 0
-        cur_max = 0
-        
+        cur_max = properties[0][1]
+        properties.pop(0)
         for a,d in properties:
             if d < cur_max:
                 weak +=1
