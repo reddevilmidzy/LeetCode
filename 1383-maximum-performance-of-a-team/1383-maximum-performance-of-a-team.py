@@ -10,7 +10,7 @@ class Solution:
         global_ans = 0
         heap = []
         heap_speed_sum = 0
-        eff_min = int(1e9)
+        eff_min = int(1e8)
         
         for eff, speed in props:
             # we first want to take k 
