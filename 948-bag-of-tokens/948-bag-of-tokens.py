@@ -4,6 +4,7 @@ class Solution:
         cur = 0
         d = collections.deque(sorted(tokens))
         # 정렬한다음에 가장 싼것을 구매
+        # 결과값 리턴
         while d and (d[0] <= power or cur):
             if d[0] <= power:
                 power -= d.popleft()
