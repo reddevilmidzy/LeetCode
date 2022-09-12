@@ -1,7 +1,6 @@
 class Solution:
     def bagOfTokensScore(self, tokens: List[int], power: int) -> int:
-        res = 0
-        cur = 0
+        res,cur = 0,0
         d = collections.deque(sorted(tokens))
         # 정렬한다음에 가장 싼것을 구매
         # 결과값 리턴
