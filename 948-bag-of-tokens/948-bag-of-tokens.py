@@ -4,7 +4,7 @@ class Solution:
         res = []
         tokens.sort()
         queue = deque(tokens)
-        # 정렬한 다음에 가장 싼것을 구매
+        # 정렬한 다음에 가장 싼것을 구매 
         while queue and (queue[0] <= power or cur):
             if queue[0] <= power:
                 power -= queue.popleft()
@@ -12,6 +12,7 @@ class Solution:
             else:
                 power += queue.pop()
                 cur -= 1
-            res.append(cur)
+            heapq.heappush(res, -cur)
+            #res.append(cur)
         
-        return max(res) if res else 0
+        return -heapq.heappop(res) if res else 0
