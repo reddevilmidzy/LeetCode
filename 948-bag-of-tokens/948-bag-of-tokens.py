@@ -2,7 +2,8 @@ class Solution:
     def bagOfTokensScore(self, tokens: List[int], power: int) -> int:
         cur = 0
         res = []
-        queue = deque(sorted(tokens))
+        tokens.sort()
+        queue = deque(tokens)
         # 정렬한 다음에 가장 싼것을 구매
         while queue and (queue[0] <= power or cur):
             if queue[0] <= power:
