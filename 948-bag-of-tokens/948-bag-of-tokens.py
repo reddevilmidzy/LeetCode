@@ -12,7 +12,6 @@ class Solution:
             else:
                 power += queue.pop()
                 cur -= 1
-            heapq.heappush(res, -cur)
-            #res.append(cur)
+            heapq.heappush(res, -cur) # 여기서 우큐가 소잡는 칼이 될까?
         
         return -heapq.heappop(res) if res else 0
