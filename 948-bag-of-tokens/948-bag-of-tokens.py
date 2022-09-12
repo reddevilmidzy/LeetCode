@@ -11,7 +11,6 @@ class Solution:
             else:
                 power += d.pop()
                 cur -= 1
-            
             res = max(res, cur)
         
         return res
