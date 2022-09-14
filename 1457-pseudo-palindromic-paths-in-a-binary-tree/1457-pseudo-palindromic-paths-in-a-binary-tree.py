@@ -6,7 +6,6 @@
 #         self.right = right
 class Solution:
     def pseudoPalindromicPaths (self, root: Optional[TreeNode]) -> int:
-        
         def dfs(root, path):
             nonlocal ans
             if root == None:
@@ -17,12 +16,9 @@ class Solution:
                 if path & (path - 1)==0:
                     ans += 1
                 return
-            
             # 좌 우
             dfs(root.left, path)
             dfs(root.right, path)
-        
-        
         ans = 0
         dfs(root,0)
         return ans
