@@ -11,4 +11,5 @@ class Solution:
                 cur = dp[j]
                 dp[j] = pre + 1 if text1[i-1] == text2[j-1] else max(dp[j-1], cur)
                 pre = cur
+        # 기도메타
         return dp[-1]
