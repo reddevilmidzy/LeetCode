@@ -12,17 +12,7 @@ class Solution:
                     sub += s[i]
                     t_idx = j+1
                     break
-        #print(sub)
-#         for i in range(t_len):
-#             for j in range(s_idx, s_len):
-#                 print('t',t[i], 's',s[j])
-#                 if t[i]==s[j]:
-#                     sub += t[i]
-#                     s_idx = j+1
-#                     break
-#         print(sub)
         if sub==s:
             return True
         else:
             return False
-#         # print('sub',sub)
