@@ -2,7 +2,6 @@ class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
         s_len = len(s)
         t_len = len(t)
-        s_idx = 0
         t_idx = 0
         sub = ''
         
