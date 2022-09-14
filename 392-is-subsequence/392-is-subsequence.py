@@ -11,4 +11,4 @@ class Solution:
                     sub += s[i]
                     t_idx = j+1
                     break
-        return sub==s
+        return True if sub==s else False
