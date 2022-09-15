@@ -8,8 +8,7 @@ class Solution:
             return 0
         elif arr==[]:
             return -1
-        print(arr)
-        
+                
         for coin in arr:
             dp[coin] = 1
             
@@ -18,6 +17,5 @@ class Solution:
                 if i > coin and dp[i-coin] != INF:
                     # print(i, coin)
                     dp[i] = min(dp[i-coin]+1,dp[i])
-        # print(dp[480:])
         
         return dp[amount] if dp[amount] != INF else -1
