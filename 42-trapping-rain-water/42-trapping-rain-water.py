@@ -1,6 +1,7 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
         n = len(height)
+        # 좌우 최대값 담을 변수
         maxLeft, maxRight = [0] * n, [0] * n
         for i in range(1, n):
             maxLeft[i] = max(height[i-1], maxLeft[i-1])
