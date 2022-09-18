@@ -1,7 +1,6 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
         n = len(height)
-        # 정방향으로 갈때 가장 높은 거 담을 배열과, 역방향으로 갈 때 가장 높은 거 담을 배열
         maxLeft, maxRight = [0] * n, [0] * n
         for i in range(1, n):
             maxLeft[i] = max(height[i-1], maxLeft[i-1])
