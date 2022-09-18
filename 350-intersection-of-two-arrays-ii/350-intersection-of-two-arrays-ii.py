@@ -5,7 +5,6 @@ class Solution:
         
         ans = []
         for i in list(set(nums1)&set(nums2)):
-            tmp = [i]*min(cnt_nums1[i], cnt_nums2[i])
-            ans.extend(tmp)
+            ans.extend([i]*min(cnt_nums1[i], cnt_nums2[i]))
         return ans
         
