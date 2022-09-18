@@ -7,9 +7,7 @@ class Solution:
             maxLeft[i] = max(height[i-1], maxLeft[i-1])
         for i in range(n-2, -1, -1):
             maxRight[i] = max(height[i+1], maxRight[i+1])
-            
         ans = 0
-        
         for i in range(n):
             # 수심은 더 작은거 체크
             waterLevel = min(maxLeft[i], maxRight[i])
