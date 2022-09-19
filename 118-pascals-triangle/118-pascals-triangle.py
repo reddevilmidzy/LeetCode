@@ -6,4 +6,5 @@ class Solution:
             for j in range(i-1):
                 dp[i].extend([dp[i-1][j]+dp[i-1][j+1]])
             dp[i].append(1)
+        # 기도를
         return dp
