@@ -4,5 +4,5 @@ class Solution:
         word = list(map(str,s.split()))
         for i in word:
             ans.append(i[::-1])
-        print(word)
+
         return ' '.join(ans)
