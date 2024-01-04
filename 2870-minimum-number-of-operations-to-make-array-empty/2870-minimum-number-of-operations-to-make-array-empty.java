@@ -12,13 +12,8 @@ class Solution {
             if (num < 2) {
                 return -1;
             }
-            if (num % 3 == 0) {
-                res += num / 3;
-            } else {
-                res += num / 3 + 1;
-            }
+            res += num / 3 + Math.min(1, (num%3) * 1);
         }
-
         return res;
     }
 }
