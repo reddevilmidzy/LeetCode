@@ -18,7 +18,7 @@ public:
         
         int xorResult = xorArray ^ xorAll;
         
-        // 최상위 비트
+        // 최하위 비트
         int rightmostSetBit = xorResult & -xorResult;
         
         int xorSet = 0;
