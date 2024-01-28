@@ -23,9 +23,6 @@ class Solution {
         if (node == null) {
             return null;
         }
-        if (Objects.equals(node, null)) {
-            return new Node();
-        }
         
         Queue<Node> queue = new LinkedList<>();
         queue.add(node);
