@@ -14,7 +14,6 @@ class Solution {
                 stk.push(String.valueOf(res));
             }
         }
-        
         return res;
     }
     
