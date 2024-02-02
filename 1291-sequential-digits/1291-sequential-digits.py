@@ -8,6 +8,5 @@ class Solution:
         for p in range(n, m+1):
             for q in range(10-p):
                 if low <= int(s[q:q+p]) <= high:
-                    print(s[q:q+p])
                     res.append(int(s[q:q+p]))
         return res
