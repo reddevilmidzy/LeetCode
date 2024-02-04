@@ -25,7 +25,6 @@ class Solution:
         two = one
         
         while one <= two <= n:
-            # print("one", one, "two", two, di)
             if self.same(di , t_di):
                 if res == '':
                     res = s[one:two]
@@ -39,7 +38,6 @@ class Solution:
                     tmp += 1
 
                 one = tmp
-                # print('same', 'one', one, 'tmp', tmp)
             else:
                 if two >= n: break
                 v = s[two]
@@ -52,9 +50,5 @@ class Solution:
                 res = s[one:two]
             elif len(res) > len(s[one:two]):
                 res = s[one:two]
-            # res.append(s[one:two])
-        # print('one', one, 'two', two)
-        # print(t_di)
-        # print(res)
-        # res.sort(key=lambda x:len(x))
+
         return res
