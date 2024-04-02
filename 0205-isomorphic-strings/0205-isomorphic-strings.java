@@ -1,6 +1,8 @@
 class Solution {
     public boolean isIsomorphic(final String s, final String t) {
-        return convert(s).equals(convert(t));
+        final List<Integer> convertS = convert(s);
+        final List<Integer> convertT = convert(t);
+        return convertS.equals(convertT);
     }
 
     private List<Integer> convert(final String word) {
