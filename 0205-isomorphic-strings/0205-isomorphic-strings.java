@@ -5,17 +5,29 @@ class Solution {
 
         final int n = s.length();
         for (int i = 0; i < n; i++) {
-            sArr[s.charAt(i) - 'a']++;
-            tArr[t.charAt(i) - 'a']++;
+
         }
 
-        final Map<Integer, Integer> sMap = new HashMap<>();
-        final Map<Integer, Integer> tMap = new HashMap<>();
-        
-        for (int i = 0; i < 26; i++) {
-            sMap.put(sArr[i], sMap.getOrDefault(sArr[i], 0) + 1);
-            tMap.put(tArr[i], tMap.getOrDefault(tArr[i], 0) + 1);
+        return convert(s).equals(convert(t));
+    }
+
+    private List<Integer> convert(final String word) {
+        final int n = word.length();
+        final Map<Character, Integer> index = new HashMap<>();
+        final List<Integer> result = new ArrayList<>();
+
+        for (int i = 0; i < n; i++) {
+            char ch = word.charAt(i);
+            result.add(toNumber(index, ch, i));
         }
-        return sMap.equals(tMap);
+        return result;
+    }
+
+    private int toNumber(final Map<Character, Integer> index, char ch, final int i) {
+        if (index.containsKey(ch)) {
+            return index.get(ch);
+        }
+        index.put(ch, i);
+        return index.keySet().size();
     }
 }
