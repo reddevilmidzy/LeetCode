@@ -1,13 +1,5 @@
 class Solution {
     public boolean isIsomorphic(final String s, final String t) {
-        final int[] sArr = new int[26];
-        final int[] tArr = new int[26];
-
-        final int n = s.length();
-        for (int i = 0; i < n; i++) {
-
-        }
-
         return convert(s).equals(convert(t));
     }
 
