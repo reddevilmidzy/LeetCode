@@ -7,13 +7,10 @@ class Solution:
         while True:
             cur = self.calculate(str(cur))
             cnt += 1
-            print('cur', cur)
             if cur == 1: return True
             flag = flag & ('1' not in str(cur))
-
             if cur in v: return flag
-
-            if cnt > 10: break
+            if cnt > 9: break
 
         return False
 
