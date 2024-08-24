@@ -13,8 +13,7 @@ class Solution:
 
             if cur in v: return flag
 
-
-            if cnt > 100: break
+            if cnt > 10: break
 
         return False
 
