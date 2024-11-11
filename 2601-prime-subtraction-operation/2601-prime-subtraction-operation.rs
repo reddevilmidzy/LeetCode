@@ -1,5 +1,3 @@
-use std::cmp::Ordering;
-
 impl Solution {
     pub fn prime_sub_operation(mut nums: Vec<i32>) -> bool {
         let n = nums.len();
