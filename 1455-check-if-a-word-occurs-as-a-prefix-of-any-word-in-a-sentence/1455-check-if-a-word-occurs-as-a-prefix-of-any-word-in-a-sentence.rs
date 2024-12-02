@@ -1,12 +1,9 @@
 impl Solution {
     pub fn is_prefix_of_word(sentence: String, search_word: String) -> i32 {
-        let s = search_word.as_str();
-        let mut idx = 1;
-        for word in sentence.split_whitespace() {
-            if word.len() >= s.len() && &word[0..s.len()] == s {
-                return idx;
+        for (idx, word) in sentence.split_whitespace().enumerate() {
+            if word.starts_with(&search_word) {
+                return (idx + 1) as i32;
             }
-            idx += 1;
         }
         -1
     }
