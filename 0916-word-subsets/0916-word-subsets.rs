@@ -5,14 +5,14 @@ impl Solution {
         let mut cnt2: Vec<u32> = vec![0; 26];
 
         for word in words2 {
-            let tmp = Self::counter(word);
+            let tmp = Self::counter(&word);
             for i in 0..26 {
                 cnt2[i] = cnt2[i].max(tmp[i]);
             }
         }
 
         for word in words1 {
-            let cnt1: Vec<u32> = Self::counter(word.clone());
+            let cnt1: Vec<u32> = Self::counter(&word);
 
             if Self::is_subset(&cnt1, &cnt2) {
                 res.push(word);
@@ -31,7 +31,7 @@ impl Solution {
         true
     }
 
-    pub fn counter(word: String) -> Vec<u32> {
+    pub fn counter(word: &String) -> Vec<u32> {
         let mut cnt: Vec<u32> = vec![0; 26];
 
         for c in word.chars() {
