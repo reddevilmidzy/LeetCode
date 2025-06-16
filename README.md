@@ -1,6 +1,6 @@
 # LeetCode
 Solve
-Ã«Â¦Â¿Ã«ÂÂÃ«Â°Â©
+ÃÂ«ÃÂ¦ÃÂ¿ÃÂ«ÃÂÃÂÃÂ«ÃÂ°ÃÂ©
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -9,6 +9,7 @@ Solve
 | ------- |
 | [0135-candy](https://github.com/reddevilmidzy/LeetCode/tree/master/0135-candy) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/reddevilmidzy/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/reddevilmidzy/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
