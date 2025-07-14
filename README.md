@@ -1,6 +1,6 @@
 # LeetCode
 Solve
-ÃÂÃÂ«ÃÂÃÂ¦ÃÂÃÂ¿ÃÂÃÂ«ÃÂÃÂÃÂÃÂÃÂÃÂ«ÃÂÃÂ°ÃÂÃÂ©
+ÃÂÃÂÃÂÃÂ«ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ«ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ«ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ©
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -39,4 +39,12 @@ Solve
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/reddevilmidzy/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Math
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/reddevilmidzy/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
