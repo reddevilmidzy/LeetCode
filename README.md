@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/reddevilmidzy/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [4086-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/4086-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Greedy
 |  |
 | ------- |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/reddevilmidzy/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [4086-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/4086-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Counting
 |  |
 | ------- |
@@ -25,6 +27,7 @@
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/reddevilmidzy/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1447-jump-game-iv](https://github.com/reddevilmidzy/LeetCode/tree/master/1447-jump-game-iv) |
+| [4086-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/4086-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Math
 |  |
 | ------- |
@@ -41,4 +44,12 @@
 |  |
 | ------- |
 | [1447-jump-game-iv](https://github.com/reddevilmidzy/LeetCode/tree/master/1447-jump-game-iv) |
+## Stack
+|  |
+| ------- |
+| [4086-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/4086-lexicographically-smallest-string-after-deleting-duplicate-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [4086-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/4086-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 <!---LeetCode Topics End-->
