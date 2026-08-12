@@ -23,6 +23,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1447-jump-game-iv](https://github.com/reddevilmidzy/LeetCode/tree/master/1447-jump-game-iv) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/reddevilmidzy/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reddevilmidzy/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3919-network-recovery-pathways](https://github.com/reddevilmidzy/LeetCode/tree/master/3919-network-recovery-pathways) |
 ## Hash Table
@@ -30,6 +31,7 @@
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/reddevilmidzy/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1447-jump-game-iv](https://github.com/reddevilmidzy/LeetCode/tree/master/1447-jump-game-iv) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reddevilmidzy/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/reddevilmidzy/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [4086-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/4086-lexicographically-smallest-string-after-deleting-duplicate-characters) |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reddevilmidzy/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
