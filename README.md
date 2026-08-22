@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/reddevilmidzy/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/reddevilmidzy/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Design
 |  |
 | ------- |
