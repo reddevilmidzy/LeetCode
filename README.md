@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/reddevilmidzy/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/reddevilmidzy/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/reddevilmidzy/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [4086-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/4086-lexicographically-smallest-string-after-deleting-duplicate-characters) |
@@ -91,5 +92,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/reddevilmidzy/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reddevilmidzy/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
