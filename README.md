@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/reddevilmidzy/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0403-frog-jump](https://github.com/reddevilmidzy/LeetCode/tree/master/0403-frog-jump) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1447-jump-game-iv](https://github.com/reddevilmidzy/LeetCode/tree/master/1447-jump-game-iv) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/reddevilmidzy/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -68,6 +69,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0403-frog-jump](https://github.com/reddevilmidzy/LeetCode/tree/master/0403-frog-jump) |
 | [3919-network-recovery-pathways](https://github.com/reddevilmidzy/LeetCode/tree/master/3919-network-recovery-pathways) |
 ## Graph Theory
 |  |
