@@ -24,6 +24,7 @@
 | [0403-frog-jump](https://github.com/reddevilmidzy/LeetCode/tree/master/0403-frog-jump) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1447-jump-game-iv](https://github.com/reddevilmidzy/LeetCode/tree/master/1447-jump-game-iv) |
+| [1466-jump-game-v](https://github.com/reddevilmidzy/LeetCode/tree/master/1466-jump-game-v) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/reddevilmidzy/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reddevilmidzy/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0403-frog-jump](https://github.com/reddevilmidzy/LeetCode/tree/master/0403-frog-jump) |
+| [1466-jump-game-v](https://github.com/reddevilmidzy/LeetCode/tree/master/1466-jump-game-v) |
 | [3919-network-recovery-pathways](https://github.com/reddevilmidzy/LeetCode/tree/master/3919-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -90,6 +92,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1466-jump-game-v](https://github.com/reddevilmidzy/LeetCode/tree/master/1466-jump-game-v) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
