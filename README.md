@@ -11,6 +11,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/reddevilmidzy/LeetCode/tree/master/0605-can-place-flowers) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/reddevilmidzy/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [4086-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/4086-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Counting
@@ -25,6 +26,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/reddevilmidzy/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0403-frog-jump](https://github.com/reddevilmidzy/LeetCode/tree/master/0403-frog-jump) |
+| [0605-can-place-flowers](https://github.com/reddevilmidzy/LeetCode/tree/master/0605-can-place-flowers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1447-jump-game-iv](https://github.com/reddevilmidzy/LeetCode/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/reddevilmidzy/LeetCode/tree/master/1466-jump-game-v) |
