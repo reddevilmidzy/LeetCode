@@ -22,6 +22,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/reddevilmidzy/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/reddevilmidzy/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/reddevilmidzy/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0403-frog-jump](https://github.com/reddevilmidzy/LeetCode/tree/master/0403-frog-jump) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -72,6 +73,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3919-network-recovery-pathways](https://github.com/reddevilmidzy/LeetCode/tree/master/3919-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -135,16 +137,31 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/reddevilmidzy/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/reddevilmidzy/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/reddevilmidzy/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Sqrt Decomposition
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/reddevilmidzy/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
