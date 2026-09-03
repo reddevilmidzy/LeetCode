@@ -21,7 +21,31 @@ impl MergeSortTree {
             self.build(nums, idx << 1, lo, mid);
             self.build(nums, idx << 1 | 1, mid + 1, hi);
             
-            self.merge(idx, &self.tree[idx << 1].clone(), &self.tree[idx << 1 | 1].clone());
+            let n = self.tree[idx << 1].len();
+            let m = self.tree[idx << 1 | 1].len();
+
+            let mut res = Vec::with_capacity(n + m);
+            let mut i = 0;
+            let mut j = 0;
+
+            while i + j < n + m {
+                if i == n {
+                    res.push(self.tree[idx << 1 | 1][j]);
+                    j += 1;
+                } else if j == m {
+                    res.push(self.tree[idx << 1][i]);
+                    i += 1;
+                } else {
+                    if self.tree[idx << 1][i] <= self.tree[idx << 1 | 1][j] {
+                        res.push(self.tree[idx << 1][i]);
+                        i += 1;
+                    } else {
+                        res.push(self.tree[idx << 1 | 1][j]);
+                        j += 1;
+                    }
+                }
+            }
+            self.tree[idx] = res;
         }
     }
 
