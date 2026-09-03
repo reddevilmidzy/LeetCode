@@ -27,6 +27,7 @@
 | [0327-count-of-range-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/reddevilmidzy/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0403-frog-jump](https://github.com/reddevilmidzy/LeetCode/tree/master/0403-frog-jump) |
+| [0493-reverse-pairs](https://github.com/reddevilmidzy/LeetCode/tree/master/0493-reverse-pairs) |
 | [0605-can-place-flowers](https://github.com/reddevilmidzy/LeetCode/tree/master/0605-can-place-flowers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1447-jump-game-iv](https://github.com/reddevilmidzy/LeetCode/tree/master/1447-jump-game-iv) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/reddevilmidzy/LeetCode/tree/master/0493-reverse-pairs) |
 | [3919-network-recovery-pathways](https://github.com/reddevilmidzy/LeetCode/tree/master/3919-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -143,18 +145,21 @@
 | [0307-range-sum-query-mutable](https://github.com/reddevilmidzy/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/reddevilmidzy/LeetCode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/reddevilmidzy/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/reddevilmidzy/LeetCode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/reddevilmidzy/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/reddevilmidzy/LeetCode/tree/master/0493-reverse-pairs) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -164,14 +169,17 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/reddevilmidzy/LeetCode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/reddevilmidzy/LeetCode/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/reddevilmidzy/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
