@@ -37,6 +37,7 @@
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/reddevilmidzy/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3919-network-recovery-pathways](https://github.com/reddevilmidzy/LeetCode/tree/master/3919-network-recovery-pathways) |
+| [4284-smallest-stable-index-i](https://github.com/reddevilmidzy/LeetCode/tree/master/4284-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,4 +183,8 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/reddevilmidzy/LeetCode/tree/master/0493-reverse-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [4284-smallest-stable-index-i](https://github.com/reddevilmidzy/LeetCode/tree/master/4284-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
