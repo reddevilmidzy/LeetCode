@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/reddevilmidzy/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0977-distinct-subsequences-ii](https://github.com/reddevilmidzy/LeetCode/tree/master/0977-distinct-subsequences-ii) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/reddevilmidzy/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/reddevilmidzy/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/reddevilmidzy/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/reddevilmidzy/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0403-frog-jump](https://github.com/reddevilmidzy/LeetCode/tree/master/0403-frog-jump) |
+| [0977-distinct-subsequences-ii](https://github.com/reddevilmidzy/LeetCode/tree/master/0977-distinct-subsequences-ii) |
 | [1466-jump-game-v](https://github.com/reddevilmidzy/LeetCode/tree/master/1466-jump-game-v) |
 | [3919-network-recovery-pathways](https://github.com/reddevilmidzy/LeetCode/tree/master/3919-network-recovery-pathways) |
 ## Graph Theory
