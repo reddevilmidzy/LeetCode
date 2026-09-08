@@ -6,6 +6,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/reddevilmidzy/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/reddevilmidzy/LeetCode/tree/master/0977-distinct-subsequences-ii) |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/reddevilmidzy/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/reddevilmidzy/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/reddevilmidzy/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/reddevilmidzy/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/reddevilmidzy/LeetCode/tree/master/0605-can-place-flowers) |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/reddevilmidzy/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/reddevilmidzy/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [4086-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/4086-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Counting
@@ -45,6 +47,7 @@
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/reddevilmidzy/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1447-jump-game-iv](https://github.com/reddevilmidzy/LeetCode/tree/master/1447-jump-game-iv) |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/reddevilmidzy/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reddevilmidzy/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/reddevilmidzy/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -54,6 +57,7 @@
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/reddevilmidzy/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/reddevilmidzy/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/reddevilmidzy/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Design
 |  |
@@ -113,6 +117,7 @@
 |  |
 | ------- |
 | [1466-jump-game-v](https://github.com/reddevilmidzy/LeetCode/tree/master/1466-jump-game-v) |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/reddevilmidzy/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -191,4 +196,12 @@
 |  |
 | ------- |
 | [4284-smallest-stable-index-i](https://github.com/reddevilmidzy/LeetCode/tree/master/4284-smallest-stable-index-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/reddevilmidzy/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/reddevilmidzy/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 <!---LeetCode Topics End-->
