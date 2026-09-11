@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/reddevilmidzy/LeetCode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/reddevilmidzy/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/reddevilmidzy/LeetCode/tree/master/0977-distinct-subsequences-ii) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/reddevilmidzy/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
@@ -14,6 +15,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/reddevilmidzy/LeetCode/tree/master/0044-wildcard-matching) |
 | [0605-can-place-flowers](https://github.com/reddevilmidzy/LeetCode/tree/master/0605-can-place-flowers) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/reddevilmidzy/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/reddevilmidzy/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -92,6 +94,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/reddevilmidzy/LeetCode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/reddevilmidzy/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0403-frog-jump](https://github.com/reddevilmidzy/LeetCode/tree/master/0403-frog-jump) |
 | [0977-distinct-subsequences-ii](https://github.com/reddevilmidzy/LeetCode/tree/master/0977-distinct-subsequences-ii) |
@@ -205,4 +208,8 @@
 |  |
 | ------- |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/reddevilmidzy/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/reddevilmidzy/LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
