@@ -74,6 +74,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/reddevilmidzy/LeetCode/tree/master/0547-number-of-provinces) |
 | [1447-jump-game-iv](https://github.com/reddevilmidzy/LeetCode/tree/master/1447-jump-game-iv) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/reddevilmidzy/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Stack
@@ -103,6 +104,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/reddevilmidzy/LeetCode/tree/master/0547-number-of-provinces) |
 | [3919-network-recovery-pathways](https://github.com/reddevilmidzy/LeetCode/tree/master/3919-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -212,4 +214,12 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/reddevilmidzy/LeetCode/tree/master/0044-wildcard-matching) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/reddevilmidzy/LeetCode/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/reddevilmidzy/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
