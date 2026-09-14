@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/reddevilmidzy/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0866-rectangle-overlap](https://github.com/reddevilmidzy/LeetCode/tree/master/0866-rectangle-overlap) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/reddevilmidzy/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/reddevilmidzy/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4248-count-commas-in-range-ii](https://github.com/reddevilmidzy/LeetCode/tree/master/4248-count-commas-in-range-ii) |
@@ -222,4 +223,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/reddevilmidzy/LeetCode/tree/master/0547-number-of-provinces) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/reddevilmidzy/LeetCode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
