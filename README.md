@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/reddevilmidzy/LeetCode/tree/master/0051-n-queens) |
 | [0239-sliding-window-maximum](https://github.com/reddevilmidzy/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/reddevilmidzy/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -227,4 +228,12 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/reddevilmidzy/LeetCode/tree/master/0866-rectangle-overlap) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/reddevilmidzy/LeetCode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/reddevilmidzy/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
