@@ -42,6 +42,7 @@
 | [1447-jump-game-iv](https://github.com/reddevilmidzy/LeetCode/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/reddevilmidzy/LeetCode/tree/master/1466-jump-game-v) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/reddevilmidzy/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/reddevilmidzy/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reddevilmidzy/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/reddevilmidzy/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -53,6 +54,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/reddevilmidzy/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1447-jump-game-iv](https://github.com/reddevilmidzy/LeetCode/tree/master/1447-jump-game-iv) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/reddevilmidzy/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/reddevilmidzy/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/reddevilmidzy/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reddevilmidzy/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -97,6 +99,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/reddevilmidzy/LeetCode/tree/master/0493-reverse-pairs) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/reddevilmidzy/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3919-network-recovery-pathways](https://github.com/reddevilmidzy/LeetCode/tree/master/3919-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -136,6 +139,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/reddevilmidzy/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/reddevilmidzy/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/reddevilmidzy/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reddevilmidzy/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
@@ -208,6 +212,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/reddevilmidzy/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [4284-smallest-stable-index-i](https://github.com/reddevilmidzy/LeetCode/tree/master/4284-smallest-stable-index-i) |
 ## Combinatorics
 |  |
