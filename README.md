@@ -7,6 +7,7 @@
 | [0044-wildcard-matching](https://github.com/reddevilmidzy/LeetCode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/reddevilmidzy/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/reddevilmidzy/LeetCode/tree/master/0977-distinct-subsequences-ii) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/reddevilmidzy/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/reddevilmidzy/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/reddevilmidzy/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/reddevilmidzy/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -88,6 +89,7 @@
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/reddevilmidzy/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [4086-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/4086-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Monotonic Stack
 |  |
@@ -249,4 +251,8 @@
 | ------- |
 | [0051-n-queens](https://github.com/reddevilmidzy/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/reddevilmidzy/LeetCode/tree/master/0052-n-queens-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/reddevilmidzy/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
