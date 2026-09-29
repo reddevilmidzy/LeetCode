@@ -44,6 +44,7 @@
 | [1466-jump-game-v](https://github.com/reddevilmidzy/LeetCode/tree/master/1466-jump-game-v) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/reddevilmidzy/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/reddevilmidzy/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/reddevilmidzy/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reddevilmidzy/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/reddevilmidzy/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -111,6 +112,7 @@
 | [0403-frog-jump](https://github.com/reddevilmidzy/LeetCode/tree/master/0403-frog-jump) |
 | [0977-distinct-subsequences-ii](https://github.com/reddevilmidzy/LeetCode/tree/master/0977-distinct-subsequences-ii) |
 | [1466-jump-game-v](https://github.com/reddevilmidzy/LeetCode/tree/master/1466-jump-game-v) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/reddevilmidzy/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3919-network-recovery-pathways](https://github.com/reddevilmidzy/LeetCode/tree/master/3919-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -155,6 +157,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/reddevilmidzy/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/reddevilmidzy/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Queue
 |  |
@@ -255,4 +258,5 @@
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/reddevilmidzy/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/reddevilmidzy/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
