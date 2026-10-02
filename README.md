@@ -40,6 +40,7 @@
 | [0493-reverse-pairs](https://github.com/reddevilmidzy/LeetCode/tree/master/0493-reverse-pairs) |
 | [0605-can-place-flowers](https://github.com/reddevilmidzy/LeetCode/tree/master/0605-can-place-flowers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0894-random-pick-with-blacklist](https://github.com/reddevilmidzy/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [1447-jump-game-iv](https://github.com/reddevilmidzy/LeetCode/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/reddevilmidzy/LeetCode/tree/master/1466-jump-game-v) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/reddevilmidzy/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/reddevilmidzy/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0894-random-pick-with-blacklist](https://github.com/reddevilmidzy/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [1447-jump-game-iv](https://github.com/reddevilmidzy/LeetCode/tree/master/1447-jump-game-iv) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/reddevilmidzy/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/reddevilmidzy/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -68,6 +70,7 @@
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/reddevilmidzy/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0866-rectangle-overlap](https://github.com/reddevilmidzy/LeetCode/tree/master/0866-rectangle-overlap) |
+| [0894-random-pick-with-blacklist](https://github.com/reddevilmidzy/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/reddevilmidzy/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/reddevilmidzy/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/reddevilmidzy/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -81,6 +84,7 @@
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/reddevilmidzy/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0894-random-pick-with-blacklist](https://github.com/reddevilmidzy/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -102,6 +106,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/reddevilmidzy/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/reddevilmidzy/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/reddevilmidzy/LeetCode/tree/master/0493-reverse-pairs) |
+| [0894-random-pick-with-blacklist](https://github.com/reddevilmidzy/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/reddevilmidzy/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3919-network-recovery-pathways](https://github.com/reddevilmidzy/LeetCode/tree/master/3919-network-recovery-pathways) |
 ## Dynamic Programming
@@ -135,6 +140,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0894-random-pick-with-blacklist](https://github.com/reddevilmidzy/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [1466-jump-game-v](https://github.com/reddevilmidzy/LeetCode/tree/master/1466-jump-game-v) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/reddevilmidzy/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/reddevilmidzy/LeetCode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
