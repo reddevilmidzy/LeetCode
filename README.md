@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/reddevilmidzy/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/reddevilmidzy/LeetCode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/reddevilmidzy/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/reddevilmidzy/LeetCode/tree/master/0977-distinct-subsequences-ii) |
@@ -94,6 +95,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/reddevilmidzy/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/reddevilmidzy/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [4086-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/reddevilmidzy/LeetCode/tree/master/4086-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Monotonic Stack
@@ -112,6 +114,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/reddevilmidzy/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/reddevilmidzy/LeetCode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/reddevilmidzy/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0403-frog-jump](https://github.com/reddevilmidzy/LeetCode/tree/master/0403-frog-jump) |
@@ -263,6 +266,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/reddevilmidzy/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/reddevilmidzy/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/reddevilmidzy/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
